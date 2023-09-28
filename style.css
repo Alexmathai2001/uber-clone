@@ -1,0 +1,336 @@
+body{
+    margin: 0;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+li,a,button{
+    font-family: inherit;
+    color: white;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    height: 0px;
+    background-color: black;
+}
+.logo{
+    font-size: 28px;
+    font-weight: 250;
+}
+header li{
+    list-style: none;
+    padding: 0px 13px;
+    display: inline-block;
+}
+.sign_up{
+    background-color: white;
+    border-radius: 25px;
+    font-weight: 600;
+    color: black;
+    background-color: white;
+    width: 70px;
+    height: 38px;
+}
+
+.services{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/*---------------body--------------*/
+
+.body{
+    height: 630px;
+    background-size: cover;
+    background-position: center center;
+    padding-left: 200px;
+    display: flex;
+    
+}
+
+.square{
+    width: 530px;
+    height: 440px;
+    background-color: white;
+    margin-top: 60px;
+    padding: 50px;
+    
+}
+
+.options{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.material-symbols-outlined{
+    text-align: center;
+}
+
+.symbol{
+    text-align: center;
+}
+
+.make_money h1{
+    font-size: 48px;
+    font-weight: 609;
+}
+.get_started{
+    border-radius: 9px;
+    font-weight: 800;
+    color: white;
+    background-color: black;
+    width: 141px;
+    height: 44px;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.container{
+    padding: 0px 0px;
+}
+.section2{
+    height: 260px;
+    background-color: #fff;
+    background-position: center center;
+    background-size: cover;
+}
+.content{
+    padding: 60px 200px
+}
+.section3{
+    width: 100%;
+    height: 700px;
+    
+    /*padding: 0px 198px;*/
+}
+
+.focus{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    padding-left: 200px;
+    
+}
+.focus1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    padding-left: 200px;
+    padding-top: 50px;
+}
+.table{
+    padding-left: 0px 500px;
+}
+.section3-content{
+    padding: 0px 220px;
+}
+
+.features{
+    display:flex;
+    padding: 50px 0px;
+    
+}
+.feature-2{
+    margin-left: 60px;
+}
+.feature-3{
+    margin-left: 150px;
+}
+*{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.section4{
+    padding: 70px 200px;
+    font-size: 16   px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.section5{
+    display: grid;
+    padding-left: 200px;
+    padding-right: 100px;
+    grid-template-columns: auto auto;
+
+}
+
+.section5_content{
+    display: grid;
+    padding-left: 10px;
+    grid-template-columns: auto auto;
+}
+.box{
+    height: 150px;
+    width: 600px;
+    display: flex;
+    padding: 0px;
+}
+.box img{
+    padding:0px 20px;
+}
+.box span{
+    color: black    ;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.material-symbols-outlined{
+    padding-left: 10px;
+}
+section{
+    margin: 0;
+    height: 400px;
+    background-color: #F6F6F6;
+    
+}
+.qr-container1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 16px;
+    height: 174px;
+    width: 460px;
+    background-color: white;   
+    margin-left:260px ;
+}
+
+.qr-container2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 16px;
+    height: 174px;
+    width: 460px;
+    background-color: white;   
+    margin-right: 260px ; 
+}
+
+.middle-section{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.right-section{
+    margin-top: auto;
+    margin-bottom: auto;
+}.qr-content{
+    display: flex;
+    justify-content:space-around;
+       
+}
+
+.last-section{
+    height: 145px;
+    display: flex;
+    justify-content: center ;
+
+}
+
+.signup-drive{
+    height: 50px;
+    width: 444px;
+    background-color: fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+}
+.arrow{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.signup-drive p{
+    font-size: 20px;
+}
+footer{
+    height: 1000px;
+    padding-left: 0px;
+    padding-top: 100px;
+    color: white;
+    background-color: black;
+}
+.footer-container p{
+    margin-top: 50px;
+    padding-left: 226px;
+}
+.footer-container h3{
+    padding-left: 226px;
+}
+
+.footer-container table{
+    padding-top: 50px;
+}
+
+.footer-container td{
+    padding-left: 226px;
+    padding-bottom: 20px;
+}
+
+.table_head{
+    font-weight: 800;
+}
+
+.social-media{
+    padding-left: 0px;
+}
+.social-media svg{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.social-media svg:first-child{
+    padding-left: 226px;
+}
+.details{
+    padding-right: 220px;
+    padding-top: 50px;
+    display: flex
+}
+
+.details div,svg{
+    padding-left: 10px;
+}
+
+.contact-details{
+    display: flex;
+    justify-content: space-between;
+}
+.store{
+    padding-left: 220px;
+    display: flex;
+}
+
+.playstore{
+    height: 30px;
+    width: 160px;
+    padding: 0px;
+    padding-top: 50px;
+}
+.appstore{
+    height: 30px;
+    width: 160px;
+    padding: 30px;
+    padding-top: 50px;
+}
+
+.functions{
+    padding-right: 220px;
+    padding-top: 50px;
+    display: flex;
+}
+
+.functions div{
+    padding-right: 20px;
+}
+
+.copyright-details{
+    color: rgba(255, 255, 255, 0.5);
+    display: flex;
+    justify-content: space-between;
+}
+
+.options-icons{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
